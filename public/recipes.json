@@ -1,6 +1,6 @@
 [
     {
-      "recipe_image": "image1.jpg",
+      "recipe_image": "https://i.ibb.co.com/R3BYXz6/image2.jpg",
       "recipe_id": "001",
       "recipe_name": "Grilled Chicken Salad",
       "short_description": "A healthy and fresh salad with grilled chicken, perfect for a light meal.",
@@ -16,7 +16,7 @@
       "calories": "250 calories"
     },
     {
-      "recipe_image": "image2.jpg",
+      "recipe_image": "https://i.ibb.co.com/7XTLh3w/image3.jpg",
       "recipe_id": "002",
       "recipe_name": "Pasta Alfredo",
       "short_description": "Creamy Alfredo pasta with a rich flavor of Parmesan cheese and butter.",
@@ -32,7 +32,7 @@
       "calories": "400 calories"
     },
     {
-      "recipe_image": "image3.jpg",
+      "recipe_image": "https://i.ibb.co.com/YjWGQp4/image1.jpg",
       "recipe_id": "003",
       "recipe_name": "Vegetable Stir-Fry",
       "short_description": "A quick and easy stir-fry with fresh vegetables and soy sauce.",
@@ -48,7 +48,7 @@
       "calories": "150 calories"
     },
     {
-      "recipe_image": "image4.jpg",
+      "recipe_image": "https://i.ibb.co.com/9rzQJWt/image4.jpg",
       "recipe_id": "004",
       "recipe_name": "Mango Smoothie",
       "short_description": "A refreshing mango smoothie made with yogurt and honey.",
@@ -63,7 +63,7 @@
       "calories": "180 calories"
     },
     {
-      "recipe_image": "image5.jpg",
+      "recipe_image": "https://i.ibb.co.com/qyLZWGb/image5.jpg",
       "recipe_id": "005",
       "recipe_name": "Beef Tacos",
       "short_description": "Classic Mexican tacos with seasoned beef and fresh toppings.",
@@ -79,7 +79,7 @@
       "calories": "300 calories"
     },
     {
-      "recipe_image": "image6.jpg",
+      "recipe_image": "https://i.ibb.co.com/frFnxXH/image6.jpg",
       "recipe_id": "006",
       "recipe_name": "Chocolate Cake",
       "short_description": "A rich and moist chocolate cake topped with a smooth ganache.",
