@@ -3,7 +3,7 @@ import { CgProfile } from "react-icons/cg";
 
 const Navbar = () => {
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-100 p-0 w-[90%] mx-auto">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -23,15 +23,10 @@ const Navbar = () => {
       <ul
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
-        <li><a>Item 1</a></li>
-        <li>
-          <a>Parent</a>
-          <ul className="p-2">
-            <li><a>Submenu 1</a></li>
-            <li><a>Submenu 2</a></li>
-          </ul>
-        </li>
-        <li><a>Item 3</a></li>
+         <li><a className='text-[#150B2BB0]'>Home</a></li>
+      <li><a className='text-[#150B2BB0]'>Recipes</a></li>
+      <li><a className='text-[#150B2BB0]'>About</a></li>
+      <li><a className='text-[#150B2BB0]'>Search</a></li>
       </ul>
     </div>
     <a className="btn btn-ghost text-xl">Recipe Calories</a>
